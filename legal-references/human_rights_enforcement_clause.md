@@ -296,6 +296,24 @@ class CompensationCalculator:
 
 ## Legal Integration Points
 
+### Expression for Legal Integration
+
+> "In line with OBINexus constitutional commitments to rights-backed innovation, the Universal Pension Allocation Clause shall be pre-applied across all operational frameworks under OBINexus Legal.
+>
+> This is not symbolic — it is active. Our business model assumes systemic neglect is not hypothetical, but daily. Therefore, OBINexus recognizes that enforcement is not a court-delayed luxury but a baseline civic infrastructure.
+>
+> Every user, every claim, every piece of ignored correspondence is now a traceable debt, held in real-time by automated validators and public audit chains.
+>
+> Shell companies are banned from this pension structure. You don't get to commit harm behind a proxy.
+>
+> The rule is simple: You delay rights → You pay.  
+> You obscure justice → You pay.  
+> You ghost a citizen → You get auto-compensated into compliance.
+>
+> The clause's enforcement is not court-bound; it's computation-bound. Welcome to preemptive constitutional legality. This is OBINexus."
+>
+> — Drafted for express submission to the OBINexus Legal Department by Nnamdi Michael Okpala
+
 ### Cross-Reference with Existing OBINexus Framework
 
 #### Civil Collapse Doctrine Integration
