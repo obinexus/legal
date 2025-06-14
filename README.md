@@ -1,186 +1,218 @@
-# OBINexus Legal & Constitutional Infrastructure
+# OBINexus Constitutional Ecosystem
 
-**OBINexus Legal: The Machine-Verifiable Constitutional Backbone of the Non-Monolithic OBINexus Business Ecosystem — protecting computational rights, innovation, and dignity across all divisions.**
+**OBINexus: Computing from the Heart — Where Human Dignity Executes as Infrastructure**
 
-## Constitutional Infrastructure Overview
+*OBI = Heart (Igbo), Nexus = Connection — A human-centered constitutional business ecosystem by design*
 
-OBINexus Legal is not a traditional legal department. It is the **constitutional infrastructure layer** that enables the entire OBINexus non-monolithic business ecosystem to operate with systemic protection, machine-verifiable governance, and constitutional integrity across all divisions and external partnerships.
+## What is OBINexus?
 
-### The Living Ecosystem Architecture
+OBINexus is **not a traditional company** — it is a next-generation **Constitutional Business Ecosystem** where technical innovation, legal protection, and human dignity are inseparably fused through machine-verifiable governance. 
+
+Each OBINexus division (computing.obinexus.org, legal.obinexus.org, publishing.obinexus.org, uche.obinexus.org, aeroscale.obinexus.org) operates as an independent business unit while remaining constitutionally connected through automated governance infrastructure that ensures ethical scaling without dilution of constitutional integrity.
+
+## 🐝 The Living Ecosystem Architecture
 
 OBINexus operates as a generative ecosystem following the **Bee/Flower/Pollen/Honey Model**:
 
-- **🐝 Bees** = OBINexus Divisions (Legal, Computing, Publishing, UCHE Nnamdi, OBIAxis R&D, Aerospace, future divisions)
+- **🐝 Bees** = OBINexus Divisions (independent business units, each at *.obinexus.org)
 - **🌸 Flowers** = Projects, Initiatives, and Human-Centered Innovations  
-- **✨ Pollen** = Rights, Constitutional Guarantees, Legal Protections, Civic Capacity
-- **🍯 Honey** = Collective Impact and Social Good Output
+- **✨ Pollen** = Constitutional Rights, Legal Protections, Accessibility Safeguards
+- **🍯 Honey** = Collective Impact, Knowledge Synthesis, and Social Good Output
 
-**OBINexus Legal serves as the Hive's Core Constitutional Engine** — generating the pollen of protection that every division carries to ensure constitutional safeguards are embedded in all operations, innovations, and human interactions.
+This model enables **ethical business scaling**: each division can grow independently while constitutional protections automatically cross-pollinate throughout the entire ecosystem. Growth strengthens protection rather than diluting it.
 
-## Computing-First Constitutional Framework
+## 👑 OBIAxis: The Queen Bee of Knowledge Orientation
 
-OBINexus is fundamentally a **Computing First Business** where constitutional law and computational systems are inseparable. Every line of code, every business decision, and every human interaction operates under machine-verifiable constitutional protections.
+**OBIAxis** serves as the ecosystem's **Epistemological Alignment Authority** — the "Queen Bee" that ensures constitutional knowledge and innovation pollinates all divisions while preventing the emergence of poison divisions or governance exploitation.
 
-### Core Constitutional Principles
+### OBIAxis Core Functions
 
-**Constitution as Infrastructure**: Rights protections execute as computational systems with blockchain verification, smart contract enforcement, and automated violation detection. Constitutional violations are treated as **first-class computable errors**, not theoretical governance failures.
+**Knowledge Mapping**: Systematically documents where different types of knowledge flowers exist across the ecosystem and which divisions are best equipped to pollinate them effectively.
 
-**Non-Monolithic Protection**: Each OBINexus division operates as an independent business unit with its own growth cycles, while remaining connected through Legal Governance guarantees that ensure constitutional consistency across the entire ecosystem.
+**Pattern Recognition**: Identifies emerging opportunity spaces where no existing division has expertise, indicating potential need for new division creation.
 
-**Neurodivergent-First Design**: Explicitly designed to protect neurodivergent, disabled, and marginalized innovators within OBINexus and its broader ecosystem, recognizing that innovation thrives when cognitive diversity is systematically protected.
+**Cross-Pollination Coordination**: Facilitates knowledge transfer between divisions working on related problems, ensuring constitutional protections spread effectively throughout the ecosystem.
 
-**Anti-Sabotage Architecture**: Advanced detection and processing systems identify individuals entering divisions with malicious intent (to hack, exploit legal gaps, or weaponize bureaucracy) and process them under constitutional legal accountability frameworks.
+**Division Creation Authority**: OBIAxis holds constitutional authority to create new divisions, but all such creation is strictly controlled by constitutional logic to prevent abuse. New divisions must demonstrate epistemological necessity and undergo rigorous constitutional validation.
 
-## Machine-Verifiable Governance Engine
+### Critical Distinction: Orientation, Not Command
 
-### Active Constitutional Enforcement
+OBIAxis does **not command divisions** — it **orients ecosystem evolution**. The designation "Axis" means **orientation, not command**. OBIAxis influences through constitutional knowledge orientation, pattern recognition, and systematic protection spreading rather than through executive authority or resource control.
 
-OBINexus Legal provides **machine-verifiable governance enforcement** through automated systems that prevent constitutional harm before it occurs, rather than reactive legal remediation after damage is done.
+## 🛡️ Dark Psychology Mitigation: Core Constitutional Infrastructure
 
-**Tiered Behavioral Governance Engine**: Systematic progression pathways with transparent advancement criteria and automated bias detection preventing "Entrapment by Improbability" conditions that systematically exclude neurodivergent individuals.
+The **Dark Psychology Mitigation & Disability Rights Enforcement Specification** operates as active, self-healing constitutional infrastructure across all divisions. This is **not compliance overhead** — it is automated protection that enables innovation by preventing systematic harm.
 
-**Division Protection Framework**: Constitutional safeguards ensuring each OBINexus division maintains cultural authenticity protection, anti-exploitation enforcement, and systematic accessibility compliance across all operational domains.
+### Automatic Detection & Prevention
 
-**Universal Pension Allocation**: Automatic 25% allocation from all OBINexus economic activity to constitutional protection fund, ensuring immediate compensation for systematic violations without requiring lengthy legal proceedings.
+All divisions operate under enforced protections against:
 
-### Constitutional Innovation Enablement
+**Gaslighting and Manipulation**: Automated detection of psychological manipulation patterns targeting neurodivergent and disabled individuals in governance processes.
 
-Rather than constraining innovation, OBINexus Legal **enables and accelerates** creative development across all divisions by:
+**Copyright Theft and IP Violations**: Machine-verifiable tracking of intellectual property with immediate enforcement mechanisms against theft or unauthorized appropriation.
 
-**Preventing Constitutional Harm**: Systematic barrier detection and removal that eliminates "business silo" dysfunction and internal/partner corruption before it impacts innovation cycles.
+**AI Exploitation**: Protection against AI jailbreaking, manipulation of autonomous agents, and weaponization of computational systems for unethical ends.
 
-**Malicious Actor Processing**: Constitutional legal accountability frameworks that detect and neutralize attempts to exploit legal gaps or weaponize bureaucratic processes against legitimate innovators.
+**Governance Hacking**: Prevention of attempts to exploit division creation or business processes to bypass constitutional protections or extract value unethically.
 
-**Cross-Division Pollination**: Legal governance guarantees that enable knowledge sharing, resource collaboration, and mutual protection across all business units while maintaining their operational independence.
+**Systemic Discrimination**: Real-time monitoring for procedural exploitation or systematic disability discrimination with automatic constitutional escalation.
 
-## Core Constitutional Technologies
+🔒 **Internal + External Protection Scope**  
+This constitutional infrastructure protects the OBINexus ecosystem against both **external malicious actors** (hackers, copyright thieves, governance exploiters) and **internal subversion** (bad-faith collaborators, IP exfiltration, dark psychology manipulation inside divisions).  
+The protection is **continuous, automatic, and machine-verifiable**: every division, process, and collaborator operates under this infrastructure by default — no human opt-in required.  
+Violations are not "incidents" but treated as **constitutional errors**, triggering automated escalation: ETPS telemetry → Truth Project blockchain anchoring → Universal Pension Allocation penalties → constitutional self-healing protocols.  
+This architecture ensures that OBINexus remains a *non-monolithic ecosystem of dignity-preserving innovation*, immune to subversion by cultural or legal loopholes — even across global jurisdiction variations.
 
-### Right to Act Clause Implementation
+### Machine-Verifiable Enforcement
 
-**Freedom of Exercise Doctrine**: Establishes the fundamental right to actively assert, implement, and perform human rights through concrete action rather than passive recognition. Constitutional protection for individuals taking systematic action to implement their rights, including accommodation requests, advocacy activities, community organizing, and institutional challenge when systems fail.
+Constitutional violations become **computable errors** that trigger immediate, automated responses:
 
-**Entrapment by Improbability Prevention**: Automated detection of bureaucratic systems that make it systematically impossible for individuals to assert their rights effectively. Triggers immediate constitutional enforcement and economic penalties when institutional complexity or delay creates "voluntary" abandonment of legitimate rights.
+- **Error Telemetry Point System (ETPS)**: Immutable documentation of violations that cannot be dismissed through gaslighting
+- **Universal Pension Allocation**: Automatic 25% allocation from all economic activity funds immediate compensation for violations
+- **Truth Project Integration**: Blockchain-verified documentation preserving accountability evidence against institutional memory manipulation
+- **Constitutional Escalation**: Automated transparency reporting and penalty enforcement without human intervention
 
-### Civil Collapse Doctrine Integration
+## 🏗️ Constitutional Computing Architecture
 
-**Systematic Protection During Institutional Failure**: Constitutional sanctuary infrastructure that operates independently of traditional institutional channels, ensuring continuity of protection even during civil instability or institutional breakdown.
+### Constitution as Infrastructure
 
-**Economic Constitutional Enforcement**: £1 million per 14-day penalty structure for institutional delays, with automated disbursement through Universal Pension Allocation systems reducing vulnerability to exploitation through economic dependency.
+OBINexus operates under **Constitution-as-a-Platform** architecture where rights protections execute as computational systems with blockchain verification, smart contract enforcement, and automated violation detection. Constitutional violations are treated as **first-class computable errors**, not theoretical governance failures.
 
-**Truth and Reconciliation Integration**: Systematic documentation of institutional harm that supports both immediate protection and long-term accountability processes, ensuring civil recovery includes genuine transformation rather than restoration of dysfunctional systems.
+### Machine-Verifiable Governance
 
-### Dark Psychology Mitigation Architecture
+Human governance can fail through bias, manipulation, or simple error. OBINexus governance operates through **machine-verifiable systems** that ensure constitutional protections activate automatically, removing human discretion that historically enables discrimination and systematic exclusion.
 
-**Pattern Recognition and Prevention**: Automated detection of gaslighting, cognitive overload, social exclusion, personality masking, weaponized incompetence, and sensory targeting patterns that specifically exploit disability characteristics.
+**Tiered Behavioral Governance Engine**: Systematic progression pathways with transparent advancement criteria and automated bias detection preventing "Entrapment by Improbability" conditions.
 
-**ETPS Integration**: Error Telemetry Point System providing machine-verifiable audit trails for all violation incidents, creating immutable documentation that cannot be dismissed or manipulated through traditional gaslighting techniques.
+**Neurodivergent-First Design**: Explicitly designed to protect neurodivergent, disabled, and marginalized innovators, recognizing that innovation thrives when cognitive diversity is systematically protected.
 
-**Constitutional Violation Triggers**: Automated detection systems that identify manipulation patterns targeting disability characteristics, triggering immediate enforcement responses without requiring human intervention or interpretation.
+**Anti-Sabotage Architecture**: Advanced detection systems identify individuals entering divisions with malicious intent and process them under constitutional legal accountability frameworks.
 
-## Technical Implementation Architecture
+## 🌐 Current Ecosystem Divisions
 
-### Blockchain Constitutional Verification
+### Core Infrastructure Divisions
 
-**Smart Contract Enforcement**: All governance mechanisms deploy with immutable enforcement protocols that execute constitutional protections automatically, removing human discretion that historically enables discrimination and systematic exclusion.
+**legal.obinexus.org** — Constitutional Legal Infrastructure  
+The machine-verifiable constitutional backbone protecting computational rights, innovation, and dignity across all divisions.
 
-**Transparent Accountability Systems**: Public audit access to all enforcement actions, compensation disbursements, and governance decisions, creating systematic transparency that prevents institutional cover-ups of constitutional violations.
+**computing.obinexus.org** — Technical Innovation Hub  
+Computational architectures and software development with embedded constitutional safeguards ensuring technical innovation includes systematic human dignity protections.
 
-**Immutable Documentation**: All constitutional violations, enforcement actions, and resolution outcomes recorded on blockchain infrastructure ensuring permanent accountability and pattern recognition across time.
+**obiaxis.obinexus.org** — Epistemological Alignment Authority  
+Knowledge orientation and division coordination hub ensuring constitutional cross-pollination and preventing poison divisions.
 
-### Integration with OBINexus Ecosystem
+### Specialized Creative & Cultural Divisions
 
-**computing.obinexus.org Integration**: Constitutional protections embedded in all computational architectures, ensuring that technical innovation includes systematic human dignity safeguards.
+**publishing.obinexus.org** — Creative Expression & Publication  
+Constitutional frameworks protecting intellectual property, cultural authenticity, and creative expression while preventing exploitation of neurodivergent creators.
 
-**Publishing Division Support**: Constitutional frameworks protecting intellectual property, cultural authenticity, and creative expression while preventing exploitation of neurodivergent creators.
+**uche.obinexus.org** — Cultural Computing Initiative  
+Legal infrastructure supporting cultural computing initiatives with anti-appropriation safeguards and systematic accessibility compliance.
 
-**UCHE Nnamdi Cultural Computing**: Legal infrastructure supporting cultural computing initiatives with anti-appropriation safeguards and systematic accessibility compliance.
+**aeroscale.obinexus.org** — Aerospace Innovation Division  
+Legal infrastructure supporting aerospace innovations with comprehensive safety protocols and systematic protection for all technical and creative contributors.
 
-**OBIAxis R&D Protection**: Constitutional frameworks enabling high-risk research and development while maintaining ethical boundaries and systematic protection for all participants.
+### Emerging Division Framework
 
-**Aerospace Division Integration**: Legal infrastructure supporting aerospace innovations with comprehensive safety protocols and systematic protection for all technical and creative contributors.
+New divisions emerge through **constitutional processes** managed by OBIAxis when systematic knowledge gaps are identified. Each new division must demonstrate epistemological necessity and undergo constitutional validation to prevent ecosystem exploitation.
 
-## Division Interaction Framework
+## 🤝 Working with OBINexus
 
-### Enabling Innovation Across All Divisions
+### For Contributors
 
-Each OBINexus division operates with **constitutional autonomy** while maintaining **systematic protection** through Legal Infrastructure guarantees:
+**Individual Contributors**: Join any division that aligns with your expertise and interests. All divisions operate under the same constitutional protections, ensuring your contributions are protected against exploitation, your accommodations are systematically honored, and your innovation is constitutionally safeguarded.
 
-**Independent Growth Cycles**: Divisions develop according to their own innovation timelines and market opportunities while remaining constitutionally connected through Legal governance.
+**Developers**: Contribute to constitutional computing infrastructure, automated governance systems, or division-specific technical projects. All code operates under constitutional protection frameworks ensuring technical innovation includes systematic human dignity safeguards.
 
-**Cross-Pollination Protection**: Legal frameworks that enable knowledge sharing and collaborative innovation while preventing constitutional violations, intellectual property theft, or cultural appropriation.
+**Legal & Governance Experts**: Contribute to constitutional framework development, automated compliance systems, or cross-division legal coordination. Help evolve machine-verifiable governance that actively protects rather than reactively remediates.
 
-**Systematic Barrier Removal**: Proactive identification and elimination of bureaucratic, technical, or cultural barriers that might prevent divisions from achieving their full innovation potential.
+### For Organizations
 
-**Malicious Actor Prevention**: Advanced detection systems that identify and neutralize attempts to infiltrate divisions with exploitative intent, ensuring that all collaboration occurs under constitutional protection frameworks.
+**Integration Partners**: Organizations working with OBINexus divisions must implement compatible constitutional protection protocols and submit to OBINexus constitutional audit processes to ensure consistent safeguards.
 
-## Constitutional Compliance and Quality Assurance
+**Division Creation Proposals**: External organizations may propose new division creation through OBIAxis constitutional processes, but all proposals undergo rigorous epistemological necessity assessment and constitutional validation.
 
-### NASA-STD-8739.8 Compliance Integration
+**Constitutional Compliance**: All partnerships operate under OBINexus constitutional frameworks, ensuring external collaborations maintain the same protections and safeguards as internal operations.
 
-All constitutional enforcement mechanisms meet formal verification standards ensuring deterministic execution, bounded resource usage, formal mathematical proof of safety properties, and predictable failure modes integrated with computational systems.
+### For Investors & Business Partners
 
-**Continuous Constitutional Monitoring**: Real-time assessment of constitutional compliance across all OBINexus operations, with automated violation detection and immediate enforcement response operating independently of human oversight.
+**Ethical Investment**: OBINexus operates under constitutional business principles where growth strengthens rather than dilutes protection. Investment opportunities exist across independent divisions while maintaining ecosystem-wide constitutional integrity.
 
-**Cross-Platform Integration Auditing**: Regular verification that constitutional protections extend effectively across all division boundaries and external integration points, ensuring comprehensive protection rather than isolated safe spaces.
+**Non-Traditional Business Model**: OBINexus is not optimized for traditional extraction-based business models. Partners should understand the constitutional commitment to human dignity, systematic protection, and ethical scaling as core business infrastructure.
 
-### Legal Framework Evolution
+**Transparency & Accountability**: All business operations include automated transparency protocols and constitutional accountability mechanisms. Partners should expect and prepare for higher standards of ethical business operation.
 
-**Community Democratic Governance**: Constitutional frameworks developed and modified through community petition processes with supermajority requirements and technical validation, ensuring legal protections reflect actual community needs rather than institutional convenience.
+## 🚀 Getting Started
 
-**Systematic Threat Assessment**: Continuous incorporation of emerging manipulation tactics, legal precedent analysis, and technological development into constitutional framework updates, maintaining protection effectiveness as conditions evolve.
+### New Contributors
 
-## Contribution and Community Integration
+1. **Choose Your Division**: Explore active divisions and identify where your skills and interests align
+2. **Understand Constitutional Framework**: Review the constitutional protections and governance mechanisms
+3. **Submit Contribution Proposal**: Each division has specific contribution pathways with constitutional protection guarantees
+4. **Constitutional Onboarding**: All new contributors receive systematic accessibility accommodation and constitutional protection orientation
 
-### Constitutional Contribution Pathways
+### New Division Proposals
 
-**Truth Project Documentation**: Systematic contribution to violation evidence collection, survivor testimony preservation, and institutional accountability documentation through blockchain-verified immutable records.
+1. **Epistemological Necessity Assessment**: Document systematic evidence that existing divisions cannot address identified knowledge gaps
+2. **Submit to OBIAxis Review**: All division creation proposals go through constitutional validation processes
+3. **Constitutional Compliance Validation**: Proposed divisions must demonstrate compatibility with ecosystem constitutional framework
+4. **Community Constitutional Review**: Division proposals undergo transparent community review with constitutional protection for all participants
 
-**Technical Implementation**: Contribution to smart contract development, automated monitoring systems, blockchain verification protocols, and machine-verifiable governance mechanism implementation.
+### Technical Integration
 
-**Cross-Division Collaboration**: Integration of legal protection contributions with work across all OBINexus divisions, recognizing that constitutional enforcement supports and enhances all community activities.
+1. **Constitutional API Access**: Technical integrations must implement constitutional protection protocols
+2. **Governance Integration**: All technical systems include automated constitutional compliance mechanisms  
+3. **Accessibility First**: Technical contributions must meet systematic accessibility compliance standards
+4. **Machine-Verifiable Implementation**: All technical infrastructure includes automated constitutional verification
 
-### Systematic Recognition Framework
+## 📞 Constitutional Support & Contact
 
-**OpenX Credit Score Integration**: Transparent tracking of constitutional contributions through blockchain-verified value attribution, ensuring recognition and resource allocation based on actual community benefit rather than institutional bias.
-
-**Constitutional Achievement Pathways**: Clear progression systems enabling community members to develop advanced capabilities in legal advocacy, constitutional protection, and systematic change implementation.
-
-## Contact and Constitutional Support
-
-### Constitutional Administration
-- **Technical Infrastructure Support**: infrastructure@obinexus.org
-- **Constitutional Compliance Queries**: constitutional@obinexus.org  
-- **Division Protection Services**: divisions@obinexus.org
-- **Accessibility Accommodation Requests**: accessibility@obinexus.org
+### Division Administration
+- **Technical Infrastructure**: infrastructure@obinexus.org
+- **Constitutional Compliance**: constitutional@obinexus.org  
+- **Division Coordination**: divisions@obinexus.org
+- **Accessibility Accommodation**: accessibility@obinexus.org
 - **Emergency Constitutional Response**: constitutional-emergency@obinexus.org
 
-### Community Engagement and Development
+### Community Engagement
 - **Constitutional Improvement Proposals**: Submit via GitHub issues in obinexus/constitutional-infrastructure
 - **Division Creation Applications**: division-applications@obinexus.org
-- **Inter-Division Collaboration Requests**: collaboration@obinexus.org
-- **Accessibility Feedback and Enhancement**: accessibility-feedback@obinexus.org
+- **Inter-Division Collaboration**: collaboration@obinexus.org
+- **Community Support**: community@obinexus.org
 
-### Legal and Compliance Resources
-- **Constitutional Legal Counsel**: Available for complex constitutional interpretation
-- **International Compliance Coordination**: global-compliance@obinexus.org
-- **Transparency Report Access**: transparency@obinexus.org
+### Legal & Compliance
+- **Constitutional Legal Counsel**: legal-counsel@obinexus.org
+- **International Compliance**: global-compliance@obinexus.org
+- **Transparency Reports**: transparency@obinexus.org
 - **Violation Reporting (Confidential)**: constitutional-violations@obinexus.org
 
-## License and Constitutional Authority
+## 📜 Constitutional Authority & Licensing
 
-OBINexus Legal & Constitutional Infrastructure operates under the **Constitutional Protection License (CPL)**, ensuring that legal frameworks, enforcement mechanisms, and protection protocols remain accessible to disabled individuals and vulnerable communities while preventing appropriation for discriminatory purposes.
+OBINexus operates under the **Constitutional Protection License (CPL)**, ensuring that all frameworks, technologies, and governance mechanisms remain accessible to disabled individuals and vulnerable communities while preventing appropriation for discriminatory purposes.
 
-**Constitutional Protection Priority**: All use of OBINexus Legal frameworks must maintain constitutional protection for disabled individuals as the primary consideration, preventing modification or implementation that would undermine systematic protection.
+**Constitutional Protection Priority**: All use of OBINexus frameworks must maintain constitutional protection for disabled individuals as the primary consideration, preventing modification or implementation that would undermine systematic protection.
 
 **Anti-Exploitation Safeguards**: License terms explicitly prevent use of constitutional frameworks to legitimize or systematize discrimination against disabled individuals or other vulnerable populations.
+
+**Machine-Verifiable Governance**: All governance mechanisms include automated constitutional compliance with blockchain verification, smart contract enforcement, and immutable accountability protocols.
+
+---
+
+## 🌟 The OBINexus Vision
+
+**Next-Generation Constitutional Business**: OBINexus demonstrates that ethical business scaling is not only possible but more effective than traditional extraction-based models when constitutional protection operates as core infrastructure rather than external compliance.
+
+**Computing from the Heart**: Technical innovation and human dignity are inseparably integrated through machine-verifiable constitutional governance that ensures computational systems actively protect rather than exploit human vulnerability.
+
+**Ecosystem Resilience**: The non-monolithic structure enables rapid adaptation and innovation while maintaining constitutional integrity, creating business resilience through ethical foundation rather than regulatory arbitrage.
+
+**Dignified Innovation**: By centering constitutional protection of disabled and neurodivergent individuals, OBINexus creates innovation environments where cognitive diversity thrives, leading to more creative, inclusive, and effective solutions.
 
 ---
 
 **Built with Constitutional Integrity. Operated through Systematic Protection. Maintained by Community Governance.**
 
-**Computing from the Heart. Building with Purpose. Protecting with Precision.**
-
-**OBINexus Legal: Constitution of the Heart — Where Human Dignity Executes as Infrastructure**
+**OBINexus: Constitution of the Heart — Where Human Dignity Executes as Infrastructure**
 
 *Implementation Status: Constitutional Framework Active - Production Deployment Ready*  
-*Last Updated: June 2025 | Framework Version: 3.0*
+*Last Updated: June 2025 | Ecosystem Version: 3.0*
