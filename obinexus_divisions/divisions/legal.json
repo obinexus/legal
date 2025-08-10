@@ -1,0 +1,151 @@
+{
+  "name": "legal",
+  "status": "division",
+  "services": [
+    "constitutional-counsel",
+    "compliance-verification",
+    "arbitration-services",
+    "transparency-reporting"
+  ],
+  "access_levels": [
+    "public",
+    "protected",
+    "private"
+  ],
+  "credentials": [
+    {
+      "service": "constitutional-counsel",
+      "access_level": "public",
+      "division": "legal",
+      "email": "constitutional-counsel.public.legal@obinexus.org",
+      "password_hash": "e7f0634f0246a28e0cab72ea917d33333c601f941f37c8eb9d763979dffe34e5",
+      "created_at": "2025-08-10T17:45:06.663037",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "constitutional-counsel",
+      "access_level": "protected",
+      "division": "legal",
+      "email": "constitutional-counsel.protected.legal@obinexus.org",
+      "password_hash": "75d8ddbbc55d0d171902e48725446727c72e22d1e184f76453e9fc9d9f8c3775",
+      "created_at": "2025-08-10T17:45:06.663060",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "constitutional-counsel",
+      "access_level": "private",
+      "division": "legal",
+      "email": "constitutional-counsel.private.legal@obinexus.org",
+      "password_hash": "9e08c6b66037a1f182d1a469ed95bf0f235a45e3e159d32572b34bea92993d5b",
+      "created_at": "2025-08-10T17:45:06.663067",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "compliance-verification",
+      "access_level": "public",
+      "division": "legal",
+      "email": "compliance-verification.public.legal@obinexus.org",
+      "password_hash": "417743d5307446d044ea6298585493160b30d9d71d8bbbd0d8b362ffb7a449bc",
+      "created_at": "2025-08-10T17:45:06.663073",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "compliance-verification",
+      "access_level": "protected",
+      "division": "legal",
+      "email": "compliance-verification.protected.legal@obinexus.org",
+      "password_hash": "3b266c21c45cde34c1d13f12a7c7a6e8db424cca584b3bb1ff2626201b4a70c5",
+      "created_at": "2025-08-10T17:45:06.663077",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "compliance-verification",
+      "access_level": "private",
+      "division": "legal",
+      "email": "compliance-verification.private.legal@obinexus.org",
+      "password_hash": "2bc1bf99db4fc2c78e96e708c4472a8deff121c96fef1a3918608fa4ce519037",
+      "created_at": "2025-08-10T17:45:06.663080",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "arbitration-services",
+      "access_level": "public",
+      "division": "legal",
+      "email": "arbitration-services.public.legal@obinexus.org",
+      "password_hash": "a34e0baf9d1890e993b2720ec6c50526f598ff3ba59bbb0f31640c85d1af4e8e",
+      "created_at": "2025-08-10T17:45:06.663083",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "arbitration-services",
+      "access_level": "protected",
+      "division": "legal",
+      "email": "arbitration-services.protected.legal@obinexus.org",
+      "password_hash": "cf35ffc48f6227fb8c49d868f81164319a5cc9b6ceb5fa354dba9012fcdf6614",
+      "created_at": "2025-08-10T17:45:06.663088",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "arbitration-services",
+      "access_level": "private",
+      "division": "legal",
+      "email": "arbitration-services.private.legal@obinexus.org",
+      "password_hash": "1b1cc0df45f8c397cf04b364aa2dda2238f5d241ceeee453e14ec69abaaf35e0",
+      "created_at": "2025-08-10T17:45:06.663091",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "transparency-reporting",
+      "access_level": "public",
+      "division": "legal",
+      "email": "transparency-reporting.public.legal@obinexus.org",
+      "password_hash": "1042f28a94d6f1576b5ffe140610cfacdd70b11dc3eb9d615e8cd5b778bbf06f",
+      "created_at": "2025-08-10T17:45:06.663094",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "transparency-reporting",
+      "access_level": "protected",
+      "division": "legal",
+      "email": "transparency-reporting.protected.legal@obinexus.org",
+      "password_hash": "f0213d8cbed966180210478e40af7b271dd6f058ed9c0a1301d13e30ad5f5e80",
+      "created_at": "2025-08-10T17:45:06.663097",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    },
+    {
+      "service": "transparency-reporting",
+      "access_level": "private",
+      "division": "legal",
+      "email": "transparency-reporting.private.legal@obinexus.org",
+      "password_hash": "1c225fcf6f77c0d7688257b1a690c86dcd4205e35ad8c79d7aa8538cb1622f27",
+      "created_at": "2025-08-10T17:45:06.663099",
+      "rotated_at": null,
+      "ocs_score": 750,
+      "gate_status": "HITL"
+    }
+  ],
+  "gate_protocol": "HITL",
+  "trust_score": 0.0
+}
