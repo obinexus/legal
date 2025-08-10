@@ -1,0 +1,129 @@
+@startuml OBINexus_Legal_Hierarchy
+!theme amiga
+title OBINexus Legal Infrastructure Hierarchy\n{<*>,<**>}.<->.obinexus.<-->.org Schema
+
+skinparam backgroundColor #FEFEFE
+skinparam shadowing false
+skinparam RoundCorner 10
+skinparam ArrowThickness 2
+
+' Root Node
+rectangle "**obinexus.legal.org**\nConstitutional Legal Infrastructure" as ROOT #FFD700 {
+}
+
+' Main Constitutional Framework
+package "Constitutional Framework Layer" #E6E6FA {
+  rectangle "**Constitutional Compliance Engine**\nMachine-Verifiable Governance" as CCE #B0C4DE
+  rectangle "**Legal Architect Authority**\nNnamdi Michael Okpala" as LAA #B0C4DE
+}
+
+' Services Layer (*)
+package "Services Layer (*)" #F0FFF0 {
+  rectangle "**Constitutional Enforcement Service**\n(iaas.legal.obinexus.org)" as CES #98FB98
+  rectangle "**Rights Protection Service**\n(rights.legal.obinexus.org)" as RPS #98FB98
+  rectangle "**Compliance Validation Service**\n(compliance.legal.obinexus.org)" as CVS #98FB98
+  rectangle "**Audit Trail Service**\n(audit.legal.obinexus.org)" as ATS #98FB98
+}
+
+' Operations Layer (**)
+package "Operations Layer (**)" #FFF0F5 {
+  package "HITL Operations" #FFB6C1 {
+    rectangle "**Human Rights Review**\nManual Case Assessment" as HRR #FFB6C1
+    rectangle "**Constitutional Amendment**\nCommunity Governance" as CAM #FFB6C1
+    rectangle "**Legal Arbitration**\nDispute Resolution" as LAR #FFB6C1
+  }
+  
+  package "HOTL Operations" #DDA0DD {
+    rectangle "**Automated Enforcement**\nSmart Contract Execution" as AEN #DDA0DD
+    rectangle "**Violation Detection**\nETPS Monitoring" as VDE #DDA0DD
+    rectangle "**Penalty Calculation**\nUniversal Pension Allocation" as PCA #DDA0DD
+  }
+}
+
+' Departments Layer (<->)
+package "Departments (<->)" #F0FFFF {
+  rectangle "**Public Legal Interface**\nOpen Access Documentation" as PLI #87CEEB
+  rectangle "**Private Legal Counsel**\nConfidential Advisory" as PLC #87CEEB
+  rectangle "**Protected Legal Archive**\nTruth Project Integration" as PLA #87CEEB
+}
+
+' Divisions Layer (<-->)
+package "Legal Divisions (<-->)" #FFFACD {
+  rectangle "**Constitutional Law Division**\nFramework Development" as CLD #F0E68C
+  rectangle "**Disability Rights Division**\nDark Psychology Mitigation" as DRD #F0E68C
+  rectangle "**Civil Collapse Division**\nSystemic Failure Response" as CCD #F0E68C
+  rectangle "**International Compliance Division**\nGlobal Standards Integration" as ICD #F0E68C
+}
+
+' Hybrid Departments (Department-Division Hybrid)
+package "Hybrid Entities" #FFE4E1 {
+  rectangle "**Legal-Axis Hybrid**\nResearch & Legal Integration" as LAH #FFA07A
+  rectangle "**Legal-Reform Hybrid**\nPolicy Implementation" as LRH #FFA07A
+}
+
+' Sectors (Multiple Divisions)
+package "Legal Sectors" #E0FFFF {
+  rectangle "**Human Rights Sector**\nHealth + Social Care + Housing" as HRS #AFEEEE
+  rectangle "**Technology Rights Sector**\nComputing + IP + Privacy" as TRS #AFEEEE
+}
+
+' Relationships
+ROOT --> CCE
+ROOT --> LAA
+
+CCE --> CES
+CCE --> RPS
+CCE --> CVS
+CCE --> ATS
+
+CES --> HRR : HITL
+CES --> AEN : HOTL
+RPS --> CAM : HITL
+RPS --> VDE : HOTL
+CVS --> LAR : HITL
+CVS --> PCA : HOTL
+
+PLI --> CLD
+PLC --> DRD
+PLA --> CCD
+
+CLD --> HRS
+DRD --> HRS
+CCD --> HRS
+ICD --> TRS
+
+LAH --> CLD : hybrid
+LAH --> CCE : hybrid
+LRH --> CCD : hybrid
+LRH --> HRR : hybrid
+
+' Value-Added Services Annotation
+note right of HRR
+  **Value-Added Services Example:**
+  - Extra 15-mile legal consultation travel
+  - Premium arbitration scheduling
+  - Expedited document processing
+  - Enhanced accessibility accommodations
+end note
+
+' HITL/HOTL Annotation
+note left of AEN
+  **Zero-Trust Rotation System:**
+  - HITL: Human validates critical decisions
+  - HOTL: Automated enforcement for violations
+  - Fault-tolerant: P2P, Star, Bus topologies
+  - Constitutional compliance verification
+end note
+
+' Legend
+legend bottom
+  **Schema Legend:**
+  * = Services (Projects/Infrastructure)
+  ** = Operations (HITL/HOTL Processes)
+  <-> = Departments (Access Control)
+  <--> = Divisions (Organizational Units)
+  Sectors = Multiple Divisions Working Together
+  Hybrid = Cross-functional Entities
+endlegend
+
+@enduml
