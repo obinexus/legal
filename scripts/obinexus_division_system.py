@@ -4,6 +4,7 @@ OBINexus Division System Generator
 Implements HITL-to-HOTL Dual Gated Systems for secure credential management
 Based on Civil Collapse Distributed Governance principles
 """
+from datetime import datetime, timezone
 
 import os
 import sys
@@ -106,7 +107,7 @@ class OBINexusDivisionSystem:
                     division=name,
                     email=email,
                     password_hash=password_hash,
-                    created_at=datetime.utcnow().isoformat(),
+                    created_at=datetime.now(timezone.utc).isoformat(),
                     gate_status=initial_gate
                 )
                 
@@ -148,7 +149,7 @@ class OBINexusDivisionSystem:
             raise ValueError(f"Division {division_name} not found")
         
         # Create temporary files
-        timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+        timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
         base_filename = f"{division_name}_credentials_{timestamp}"
         
         # Generate CSV/TSV based on format
@@ -265,7 +266,7 @@ class OBINexusDivisionSystem:
     def _log_constitutional_action(self, action: str):
         """Log actions for constitutional compliance audit trail"""
         log_entry = {
-            'timestamp': datetime.utcnow().isoformat(),
+            'timestamp': datetime.now(timezone.utc).isoformat(),
             'action': action,
             'constitutional_compliance': True
         }
@@ -288,7 +289,7 @@ class OBINexusDivisionSystem:
             'status': 'sector',
             'composition': division_names,
             'shared_policies': shared_policies,
-            'created_at': datetime.utcnow().isoformat()
+            'created_at': datetime.now(timezone.utc).isoformat()
         }
         
         sector_file = self.divisions_path / f"{sector_name}_sector.json"
