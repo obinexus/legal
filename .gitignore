@@ -1,0 +1,6 @@
+# Add to .gitignore to exclude from repository
+echo "# OBINexus Secure Credential Storage" >> .gitignore
+echo ".obinexus-secure/" >> .gitignore
+echo "*.enc.zip" >> .gitignore
+echo "*_credentials_*.zip" >> .gitignore
+echo "constitutional_audit.log" >> .gitignore
