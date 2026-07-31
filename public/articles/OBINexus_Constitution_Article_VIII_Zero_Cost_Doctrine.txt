@@ -1,0 +1,221 @@
+═══════════════════════════════════════════════════════════════════════════════
+                        OBINEXUS CONSTITUTIONAL FRAMEWORK
+                    Draft Amendment — The Zero-Cost Doctrine
+                         Filed: 31 July 2026 | Session: OBX-2026-0731-VIII
+═══════════════════════════════════════════════════════════════════════════════
+
+PREAMBLE
+────────
+Whereas the term "free" has been weaponized by extraction economies to conceal
+  a four-layer architecture of cost upon the individual;
+Whereas the citizen identified this architecture and coined the term "zero-cost"
+  as the antidote — not a synonym, but an opposite;
+Whereas zero-cost infrastructure requires zero-knowledge proof architecture,
+  commons-based resource allocation, and the industrial-scale reduction of
+  capital burden to net zero at the point of user entry;
+
+We, the constituent nodes of OBINexus, establish this Article as the economic
+and technical complement to Article VII (Layered Cost Sovereignty), binding upon
+all jurisdictions operating under the Muko Orion OS constitutional stack.
+
+═══════════════════════════════════════════════════════════════════════════════
+ARTICLE VIII — THE ZERO-COST DOCTRINE
+(The Okpala Principle)
+═══════════════════════════════════════════════════════════════════════════════
+
+SECTION 1. DEFINITIONS
+
+1.1  "Zero-Cost"
+     A state of engineered unextractability in which the industrial-scale cost
+     of essential infrastructure is reduced to capital net zero at the point of
+     individual entry, achieved through zero-knowledge architecture and commons-
+     based resource allocation. Zero-cost is not "free." Zero-cost is the
+     deliberate elimination of extraction, not the concealment of it.
+
+1.2  "Free" (Surveillance-Economy Definition)
+     A marketing term designating a service in which the visible monetary price
+     is set to zero while the true cost is distributed across all four Layers
+     of extraction defined in Article VII, Sections 1.1 through 1.4. Under
+     OBINexus commercial law, this term is classified as fraudulent when used
+     without full disclosure of all four Layers.
+
+1.3  "Zero-Knowledge Proof (ZKP)"
+     A cryptographic method by which one party can prove to another that a given
+     statement is true without conveying any information beyond the truth of that
+     statement. In the Zero-Cost Doctrine, ZKP eliminates the need for identity
+     exposure, behavioral profiling, or data harvesting as conditions of access.
+
+1.4  "Capital Net Zero"
+     The economic state in which the capital required from an individual node
+     to access essential infrastructure — digital or physical — is driven to
+     zero through systemic design, not through subsidy, charity, or debt
+     instrument. The cost is absorbed by the commons, not by the user.
+
+1.5  "Zero-Cost Abstraction"
+     The architectural layer that renders the underlying infrastructure cost
+     invisible to the user without transferring that cost to hidden extraction
+     mechanisms. The abstraction is transparent in its methodology and
+     verifiable in its execution.
+
+SECTION 2. THE DISTINCTION
+
+2.1  The following table shall be inscribed in all OBINexus educational and
+     onboarding materials:
+
+     ┌──────────────────────────┬──────────────────────────┐
+     │  The Surveillance "Free" │  The OBINexus Zero-Cost  │
+     ├──────────────────────────┼──────────────────────────┤
+     │ You pay for connection,  │ Infrastructure cost is   │
+     │ device, power PLUS data, │ socialized through       │
+     │ attention, autonomy      │ commons; personal cost   │
+     │                          │ is zeroed                │
+     ├──────────────────────────┼──────────────────────────┤
+     │ Privacy is premium       │ Privacy is default       │
+     │ upgrade                  │ architecture             │
+     ├──────────────────────────┼──────────────────────────┤
+     │ You are the product      │ You are the sovereign    │
+     │                          │ node                     │
+     ├──────────────────────────┼──────────────────────────┤
+     │ Capital accumulates at   │ Capital net zero at      │
+     │ the platform             │ point of user entry      │
+     ├──────────────────────────┼──────────────────────────┤
+     │ Cost hidden in fine      │ Cost abstracted away     │
+     │ print                    │ by verifiable design     │
+     └──────────────────────────┴──────────────────────────┘
+
+2.2  Any entity claiming to offer "zero-cost" services while maintaining
+     extraction mechanisms in any Layer defined in Article VII shall be
+     prosecuted under the IWU Equity Act 2026 for fraudulent constitutional
+     misrepresentation.
+
+SECTION 3. THE FOUR-LAYER ELIMINATION PROTOCOL
+
+3.1  LAYER 1 — THE GATE (Infrastructure Cost)
+     Elimination Method: Commons-based infrastructure deployment.
+     - Mesh networks owned and maintained by the community, not the corporation.
+     - Open-hardware compute cycles distributed through the Hive Algirtuuter
+       Project resource pool.
+     - Physical shelter, water, and power provisioned as human rights under
+       the Muko Orion OS physical confederation model.
+     Result: The individual node does not pay to enter the network.
+
+3.2  LAYER 2 — THE TOLL (Data Cost)
+     Elimination Method: Zero-knowledge proof architecture.
+     - Entitlement verification without identity exposure.
+     - Access grants without behavioral profiling.
+     - Service provision without data harvesting.
+     Result: The individual node does not surrender personal data as currency.
+
+3.3  LAYER 3 — THE TRAP (Cognitive Cost)
+     Elimination Method: Non-extractive interface design.
+     - Prohibition of engagement-optimization algorithms.
+     - Prohibition of dopaminergic manipulation architecture.
+     - Interface design prioritizing generative output over reactive consumption.
+     Result: The individual node retains full cognitive autonomy.
+
+3.4  LAYER 4 — THE THEFT (Opportunity Cost)
+     Elimination Method: Generative-by-default architecture.
+     - Every node is architected as a creator, not a consumer.
+     - Every interaction produces sovereign value for the node.
+     - The system amplifies human potential rather than converting it into
+       platform surplus.
+     Result: The individual node realizes, rather than forfeits, their
+     generative capacity.
+
+SECTION 4. TECHNICAL ARCHITECTURE
+
+4.1  The Zero-Cost stack shall comprise:
+
+     (a) ZK-LAYER: Zero-knowledge proof verification for all entitlement and
+         access transactions. No identity metadata shall persist beyond the
+         cryptographic verification event.
+
+     (b) COMMONS-LAYER: Distributed infrastructure ownership through the
+         OBINexus cooperative model. Physical and digital resources are held
+         in trust for all constituent nodes, not securitized for private gain.
+
+     (c) ABSTRACTION-LAYER: The interface between the node and the commons
+         shall render complexity invisible while maintaining full transparency
+         of method. The node sees zero cost; the engineer sees the full
+         verifiable architecture.
+
+     (d) VERIFICATION-LAYER: Continuous audit of all four Layers through the
+         NSIGII Trident SDK-Gamma (never-a-problem) protocol. Any deviation
+         from zero-cost status triggers automatic constitutional review.
+
+SECTION 5. ECONOMIC FRAMEWORK
+
+5.1  Capital net zero is not anti-capital. It is the redirection of capital
+     from extraction to generative infrastructure.
+
+5.2  The cost of commons maintenance is borne by:
+     (a) Cooperative surplus from generative node output;
+     (b) Automated resource optimization via the MMUKO-OS 8-cubit byte geometry
+         and diamond-table nonlinear boot order;
+     (c) Cross-jurisdictional resource pooling under the Tripartite Ruling
+         Eulerian Firth Hamiltonian Probe framework.
+
+5.3  No node shall incur debt to access zero-cost infrastructure. Debt is a
+     form of deferred extraction and is prohibited under this Doctrine.
+
+SECTION 6. ALIGNMENT WITH NSIGII TRIDENT PROTOCOL
+
+6.1  This Article shall be enforced through the three SDKs:
+
+     SDK-Alpha (never-a-toy):
+     Zero-cost infrastructure shall not be gamified, trivialized, or reduced
+     to engagement metrics. Access is a right, not a reward.
+
+     SDK-Beta (never-a-weapon):
+     Zero-knowledge architecture shall not be backdoored, weakened, or
+     compromised for state or corporate surveillance purposes. Any such
+     attempt is classified as constitutional warfare.
+
+     SDK-Gamma (never-a-problem):
+     No node shall be excluded from zero-cost infrastructure due to prior
+     economic status, geographic location, or identity category. The system
+     must adapt to the human; the human shall never be forced to adapt to
+     the system.
+
+SECTION 7. THE OKPALA PRINCIPLE
+
+7.1  The citizen who identified the four-layer extraction architecture and
+     coined the term "zero-cost" established the following principle:
+
+     "You pay with your personal data" is incomplete. The full disclosure
+     reads: "You pay with your connection fee, your device cost, your
+     electricity bill, your attention span, your cognitive autonomy, your
+     generative potential, AND your personal data."
+
+7.2  The Zero-Cost Doctrine is the engineered negation of that sentence.
+     Every clause is zeroed. Every extraction is eliminated. Every node
+     enters as sovereign.
+
+7.3  This is not charity. This is not subsidy. This is architecture.
+
+SECTION 8. RELATIONSHIP TO ARTICLE VII
+
+8.1  Article VII (Layered Cost Sovereignty) identifies the disease.
+8.2  Article VIII (The Zero-Cost Doctrine) prescribes the cure.
+8.3  Both Articles are necessary. Neither is sufficient alone.
+8.4  Together, they form the economic and technical foundation of the
+     OBINexus digital and physical commons.
+
+═══════════════════════════════════════════════════════════════════════════════
+RATIFICATION
+════════════
+
+This Article is filed under the MMUKO-OS boot sequence as Constitutional Layer
+CL-08, checksum-verified against the Tripartite Ruling Eulerian Firth Hamiltonian
+Probe framework.
+
+Canonical Expression: P = {0ⁿ1ⁿ∅ⁿ | n ≥ 1}
+
+Coined by: Nnamdi Michael Okpala (OBINexus)
+Filed by: Nnamdi Michael Okpala (OBINexus)
+Date: 31 July 2026
+Status: DRAFT — Pending Hive Algirtuuter Project ratification
+
+═══════════════════════════════════════════════════════════════════════════════
+                         END OF ARTICLE VIII
+═══════════════════════════════════════════════════════════════════════════════
