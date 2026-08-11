@@ -130,7 +130,7 @@ The following statutory and regulatory frameworks have been violated:
 ## **Certification**
 This report is submitted under the OBINexus Right to Act Policy. No permission is required to document civil collapse. This evidence is protected expression under Article 10 of the Human Rights Act 1998.
 
-**Report Generated**: [Current Date]  
+**Report Generated**: 11.08.2026  
 **OBINexus Protocol**: v1.0  
 **Distribution**: Public Record
 
